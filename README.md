@@ -2,6 +2,7 @@
 
 My solutions for Advent of Code 2022. They are all done using JavaScript and node.
 
+```
     _\/_
      /\
      /\
@@ -15,3 +16,4 @@ My solutions for Advent of Code 2022. They are all done using JavaScript and nod
      ||
    \====/
     \__/
+```
